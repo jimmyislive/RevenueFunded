@@ -14,6 +14,7 @@ List of self / bootstrapped / revenue funded companies by revenue, sorted alphab
 &gt; $1M+
 -------
  * [AppSumo] (http://www.appsumo.com/)
+ * [Codelitt Incubator](http://www.codelitt.com)
 
 &lt; $1M
 ------
