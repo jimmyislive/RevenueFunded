@@ -5,6 +5,7 @@ List of self / bootstrapped / revenue funded companies by revenue, sorted alphab
 &gt; $10M+
 -------
 * [Basecamp] (https://basecamp.com)
+* [Braintree] (https://www.braintreepayments.com/)
 * [BuiltWith] (http://builtwith.com/)
 * [MailChimp] (http://mailchimp.com/)
 
