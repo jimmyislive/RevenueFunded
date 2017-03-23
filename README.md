@@ -4,21 +4,21 @@ List of self / bootstrapped / revenue funded companies by revenue, sorted alphab
 
 &gt; $10M+
 -------
-* [Basecamp] (https://basecamp.com)
-* [Braintree] (https://www.braintreepayments.com/)
-* [BuiltWith] (http://builtwith.com/)
-* [FreshBooks] (http://www.freshbooks.com/) 
-* [Litmus] (http://litmus.com/)
-* [MailChimp] (http://mailchimp.com/)
+* [Basecamp](https://basecamp.com)
+* [Braintree](https://www.braintreepayments.com/)
+* [BuiltWith](http://builtwith.com/)
+* [FreshBooks](http://www.freshbooks.com/) 
+* [Litmus](http://litmus.com/)
+* [MailChimp](http://mailchimp.com/)
 
 &gt; $5M+
 -------
 
 &gt; $1M+
 -------
- * [AppSumo] (http://www.appsumo.com/)
+ * [AppSumo](http://www.appsumo.com/)
  * [Codelitt Incubator](http://www.codelitt.com)
 
 &lt; $1M
 ------
-* [Invoiced] (https://invoiced.com)
+* [Invoiced](https://invoiced.com)
